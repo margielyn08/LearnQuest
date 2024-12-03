@@ -1,16 +1,49 @@
-# latigarmargie
+Learn Quest
 
-A new Flutter project.
+Week 1-2 -Research and Planning
 
-## Getting Started
+•	It start by researching user needs, educational standards, and effective learning methods to ensure the app's content is engaging.
 
-This project is a starting point for a Flutter application.
+•	This includes identifying key concepts and interactive elements for each subject. 
 
-A few resources to get you started if this is your first Flutter project:
+Week 3 -  Research Compilation and Interpretation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+•	Collecting information in  different application 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+•	Gather relevant information systematically, ensuring accuracy and completeness.
+
+Week 4 – UI design 
+
+•	Proposal Development and Presentation
+
+•	Draft and present a project outline with supporting visuals.
+
+•	User Interface Design for Ease of Use
+
+•	Designing  a user-friendly interface prioritizing accessibility and clarity
+
+Week 5-8 Development
+
+Technical Tasks
+
+1.	Install Flutter Development Kit
+
+o	Set up the Flutter SDK for development.
+
+o	Download and configure the Flutter toolkit.
+
+2.	Set Up Android Studio
+
+o	Install the Android Studio IDE.
+
+o	Download and configure Android Studio for project development.
+
+Project Delays
+
+Postponed Due to University Events
+
+Paused Due to Midterm Exams
+
+Delayed with no further updates because of exams.
+
+No updates due to overlapping project timelines.
